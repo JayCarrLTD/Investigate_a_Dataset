@@ -1,12 +1,12 @@
 # Udacity-Project
 
-This project is an data analysis of a physicians offices patient information. The project seeks to understand if there is a relationship between certain factors and a patients likliehood of being a no-show patient. The dataset was obtained from <https://tinyurl.com/kaggle-no-shows>
+This project is an data analysis of a physicians offices patient information. The project seeks to understand if there is a relationship between certain factors and a patients likliehood of being a no-show patient. 
 
 ## Scenario
 A physicians office is trying to establish if there is a coorelation between varios underlying circumstances that would lead to a decrease in patient no-shows. The idea behind this analysis would be to reduce the number of no-shows which would in turn generate increased revenue for the physicans office. 
 
 ## Data
-The dataset was obtained through the online educational program Udacity.
+The dataset was obtained through the online educational program Udacity. The dataset was obtained from <https://tinyurl.com/kaggle-no-shows>
 
 ## Question
 What can be done to reduce the number of no-shows in patients?
@@ -21,22 +21,22 @@ We are ultimatley going to ask three major question in attempting to solve our m
 3. Which Age Groups Are Most Responsive to Text Messages
 
 ## Explore
-The data from the healthcare office tracks the following data for the month of May.
 
-PatientId	
-AppointmentID	
-Gender
-ScheduledDay
-AppointmentDay
-Age
-Neighbourhood
-Scholarship
-Hipertension
-Diabetes	
-Alcoholism	
-Handcap	
-SMS_received	
-No-show
+The data from the healthcare office tracks the following data for the month of May. The data needed to be cleaned. This cleaning can be found in the Juypter File below.
+
+<b>PatientId</b> - Identification of a patient 
+<b>AppointmentID</b> - Identification of each appointment 
+<b>Gender</b> = Male or Female . (Female is the greater proportion, woman takes way more care of they health in comparison to man)
+<b>AppointmentDay</b> = The day of the actuall appointment, when they have to visit the doctor. 
+<b>ScheduledDay</b> = The day someone called or registered the appointment, this is before appointment of course. 
+<b>Age</b> = How old is the patient. 
+<b>Neighbourhood</b> = Where the appointment takes place. 
+<b>Scholarship</b> = Ture of False . 
+<b>Hipertension</b> = True or False Diabetes = True or False 
+<b>Alcoholism</b> = True or False 
+<b>Handcap</b> = True or False 
+<b>SMS_received</b> = 1 or more messages sent to the patient. 
+<b>No-show</b> = True or False.
 
 ## Solve
 FULL PANANDAS ANALYSIS
