@@ -24,19 +24,19 @@ We are ultimatley going to ask three major question in attempting to solve our m
 
 The data from the healthcare office tracks the following data for the month of May. The data needed to be cleaned. This cleaning can be found in the Juypter File below.
 
-<b>PatientId</b> - Identification of a patient 
-<b>AppointmentID</b> - Identification of each appointment 
-<b>Gender</b> = Male or Female . (Female is the greater proportion, woman takes way more care of they health in comparison to man)
-<b>AppointmentDay</b> = The day of the actuall appointment, when they have to visit the doctor. 
-<b>ScheduledDay</b> = The day someone called or registered the appointment, this is before appointment of course. 
-<b>Age</b> = How old is the patient. 
-<b>Neighbourhood</b> = Where the appointment takes place. 
-<b>Scholarship</b> = Ture of False . 
-<b>Hipertension</b> = True or False Diabetes = True or False 
-<b>Alcoholism</b> = True or False 
-<b>Handcap</b> = True or False 
-<b>SMS_received</b> = 1 or more messages sent to the patient. 
-<b>No-show</b> = True or False.
+<br><b>PatientId</b> - Identification of a patient 
+<br><b>AppointmentID</b> - Identification of each appointment 
+<br><b>Gender</b> = Male or Female . (Female is the greater proportion, woman takes way more care of they health in comparison to man)
+<br><b>AppointmentDay</b> = The day of the actuall appointment, when they have to visit the doctor. 
+<br><b>ScheduledDay</b> = The day someone called or registered the appointment, this is before appointment of course. 
+<br><b>Age</b> = How old is the patient. 
+<br><b>Neighbourhood</b> = Where the appointment takes place. 
+<br><b>Scholarship</b> = Ture of False . 
+<br><b>Hipertension</b> = True or False Diabetes = True or False 
+<br><b>Alcoholism</b> = True or False 
+<br><b>Handcap</b> = True or False 
+<br><b>SMS_received</b> = 1 or more messages sent to the patient. 
+<br><b>No-show</b> = True or False.
 
 ## Solve
 FULL PANANDAS ANALYSIS
