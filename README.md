@@ -1,15 +1,13 @@
-# Udacity-Project
-
-This project is an data analysis of a physicians offices patient information. The project seeks to understand if there is a relationship between certain factors and a patients likliehood of being a no-show patient. 
+# Investigating a Data Set
 
 ## Scenario
-A physicians office is trying to establish if there is a coorelation between varios underlying circumstances that would lead to a decrease in patient no-shows. The idea behind this analysis would be to reduce the number of no-shows which would in turn generate increased revenue for the physicans office. 
+This investigation analysis the data from a physicians offices containt their patients demographic and personal information. The goal of this analysis is to to understand the relationship, if any, between a patients circumstance, demographics, and personal data and the likliehood of if the patient will show for their appointment. A physicians office is trying to establish if there is a coorelation between varios underlying circumstances that would lead to a decrease in patient no-shows. The idea behind this analysis would be to reduce the number of no-shows which would in turn generate increased revenue for the physicans office. 
 
 ## Data
 The dataset was obtained through the online educational program Udacity. The dataset was obtained from <https://tinyurl.com/kaggle-no-shows>
 
 ## Question
-What can be done to reduce the number of no-shows in patients?
+What are the factors that are affecting patients ability to show up for their appointment?
 
 ## Understand
 The data that we're going to examine is going to be essential in understanding the relationship of the patients and their liklihood of the patient cancelling their appointment. The main factors that we're going to examine are those that we will be able to explore indepth through careful analysis. For this project, we are going to focus mainly on two variables, text messaging and age. 
@@ -39,7 +37,7 @@ The data from the healthcare office tracks the following data for the month of M
 <br><b>No-show</b> = True or False.
 
 ## Solve
-FULL PANANDAS ANALYSIS
+<a href="https://github.com/JayCarrLTD/Investigate_a_Dataset">FULL PANANDAS ANALYSIS</a>
 
 ## Translate
 VISUAL ANALYSIS 
