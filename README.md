@@ -37,7 +37,7 @@ The data from the healthcare office tracks the following data for the month of M
 <br><b>No-show</b> = True or False.
 
 ## Solve
-<a href="https://github.com/JayCarrLTD/Investigate_a_Dataset/blob/master/Medical_Office_Project.ipynb">FULL PANANDAS ANALYSIS</a>
+<a href="https://github.com/JayCarrLTD/Investigate_a_Dataset/blob/master/Medical_Office_Project.ipynb">FULL ANALYSIS</a>
 
 ## Translate
 VISUAL ANALYSIS 
