@@ -1,4 +1,4 @@
-# Investigating a Data Set
+# Investigating a Dataset
 
 ## Scenario
 This investigation analysis the data from a physicians offices containt their patients demographic and personal information. The goal of this analysis is to to understand the relationship, if any, between a patients circumstance, demographics, and personal data and the likliehood of if the patient will show for their appointment. A physicians office is trying to establish if there is a coorelation between varios underlying circumstances that would lead to a decrease in patient no-shows. The idea behind this analysis would be to reduce the number of no-shows which would in turn generate increased revenue for the physicans office. 
